@@ -1,0 +1,47 @@
+.container-fluid {
+    background-image: url("https://bit.ly/2P6mzDN");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 18px;
+}
+
+.img {
+    padding-top: 0px;
+    margin-top: 0;
+}
+
+.form {
+    background-color: royalblue;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+label, form p {
+    color: springgreen;
+}
+
+.a {
+    margin-right: 30px;
+}
+
+.b, .d {
+    margin-right: 12px;
+}
+
+.form div {
+    padding-bottom: 20px;
+}
+
+button:hover {
+    background-color: lightseagreen;
+    color: white;
+}
+img{
+    float: left;
+    border-radius: 50%;
+    ;
+    
+}
+h1{
+    font-family: 'Black Ops One', cursive;
+}
