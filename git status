@@ -1,0 +1,71 @@
+[33mcommit 63369524866299e81b1e4e4f932cd18d05e1bc38[m[33m ([m[1;36mHEAD -> [m[1;32mmartin[m[33m)[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 09:43:24 2020 +0300
+
+    Add copyright and license
+
+[33mcommit 70444921e1558c4db9778509f8c20e5fc32d8111[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 09:35:29 2020 +0300
+
+    Add gitHub link to access my webpage
+
+[33mcommit 47fbd9da921f3bd23e2597299dc915b9f669ace9[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 09:25:13 2020 +0300
+
+    Add licence file
+
+[33mcommit 1d5703b01382143fa49a854b4b19323324fbc604[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 09:22:12 2020 +0300
+
+    Add submit with conditions for program to execute and the expected output
+
+[33mcommit 1a2463a0ca5f3e861943434e20621a27c482632a[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 09:11:15 2020 +0300
+
+    Add technologies used, BDD with data required in the input
+
+[33mcommit d419cee5f0e708e0e9fd13ad35b7f062e425310e[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 08:34:13 2020 +0300
+
+    Add author name, name of the project and brief description of the project
+
+[33mcommit 18da54be6090752450ac2316a4bed52fb35954bd[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 08:05:41 2020 +0300
+
+    modifies the webpage background color
+
+[33mcommit 376101528c6fd21dce3a5f3d7f0a7b96899f519e[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 08:04:31 2020 +0300
+
+    add a README.md structuring
+
+[33mcommit 7b36c2b58eadd4df575d8641fe500cd3481ece49[m[33m ([m[1;31morigin/martin[m[33m)[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Mon Feb 17 07:59:57 2020 +0300
+
+    add hcss, js, and bootstrap linking and the html structuring
+
+[33mcommit ced721c28aa8f99883ccce1a30f557ba0145e86a[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Fri Feb 14 16:46:13 2020 +0300
+
+    Add javascript link to html file
+
+[33mcommit 84ff1bf373fd6763786506e873b6935b5b6d8d13[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Fri Feb 14 15:49:34 2020 +0300
+
+    initial structure of html
+
+[33mcommit e3d206fcb08cf859e5dfb5a8bc3062379dd8903a[m[33m ([m[1;32mmaster[m[33m)[m
+Author: {mwikiaBundi1} <{mwikiam@gmail.com}>
+Date:   Thu Feb 13 14:08:25 2020 +0300
+
+    initial commit
