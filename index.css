@@ -32,7 +32,13 @@ label, form p {
     padding-bottom: 20px;
 }
 
-
+button:hover {
+    background-color: lightseagreen;
+    color: white;
+}
+img{
+    float: left;
+    border-radius: 50%;
     ;
     
 }
