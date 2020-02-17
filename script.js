@@ -1,4 +1,9 @@
-
+function getDay(name){
+    var month = parseInt(document.getElementById("month").value);
+    var date = parseInt(document.getElementById("date").value);
+    var year = document.getElementById("year").value;
+    var century = year.slice(0, 2);
+    var years = year.slice(2, 4);
 
     if (month === "" || month < 1 || month > 12 || date === "" || date < 0 || date > 31 || year === "" || year.length > 4 || name === ""){
         alert("Confirm that you have entered the correct information!")
@@ -8,14 +13,7 @@
     }
 }
 
-function getGender(){
-    var radio = document.getElementsByName("gender");  
 
-    for (var i = 0; i < radio.length; i++){
-        if (radio[i].checked){
-            var gender = radio[i].value;
-            return gender;
-        }
     }
 }
 
