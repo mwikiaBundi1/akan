@@ -32,13 +32,14 @@ label, form p {
     padding-bottom: 20px;
 }
 
-button:hover {
-    background-color: lightseagreen;
-    color: white;
-}
-img{
-    float: left;
-    border-radius: 50%;
+
     ;
     
 }
+h1{
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Bungee Inline', cursive;
+}
+body {
+    background-image: url("https://bit.ly/2vBenUM");
+  }
