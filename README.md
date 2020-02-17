@@ -34,7 +34,7 @@ Basically Akan Name Generator enables users to input their name, Date of Birth a
    **Expected output**Hey mwikia if you were born in Ghana and your Gender is Male then your name is Kofi**
 
    ## GitHub link
-   To open My-Portfolio(Click here)https://mwikiabundi1.github.io/akan/
+   To open My-Portfolio[Click here](https://mwikiabundi1.github.io/akan/)s
 
 ## Released under MIT License
 ### License
