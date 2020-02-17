@@ -1,4 +1,19 @@
+.container-fluid {
+    background-image: url("https://bit.ly/2P6mzDN");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 18px;
+}
 
+.img {
+    padding-top: 0px;
+    margin-top: 0;
+}
+
+.form {
+    background-color: royalblue;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 
 label, form p {
