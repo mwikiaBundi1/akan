@@ -23,7 +23,7 @@
             <div class="col-4">
                 
                 </div>
-        <form name="akan">
+        <form   onsubmit="return false"method="post">
             <div>
             <label class="a"><b>Enter name:</b></label> 
             <input type="text" placeholder="Enter your name" name="name" id="name" required> 
@@ -54,9 +54,9 @@
             </div>
 
             <div>
-            <button type="submit" onclick="getName();return false;" value="submit">submit</button>
+            <button type="submit" onclick="getName()" value="submit">submit</button>
             </div>
-
+            <p id="post"></p>
            
         </form>
     </div>
